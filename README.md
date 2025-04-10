@@ -1,2 +1,2 @@
 # delta-demo
-this is demo github repistory.
+this is demo github repistory..
